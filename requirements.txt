@@ -1,0 +1,4 @@
+python-telegram-bot>=21,<22
+httpx>=0.27
+cryptography
+curl_cffi
